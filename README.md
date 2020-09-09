@@ -22,8 +22,7 @@ training and validation accuracies and losses :
 ![first model](https://github.com/HebahAlshamlan/Covid-19/blob/master/img/Model1.png)
 ![seconde model](https://github.com/HebahAlshamlan/Covid-19/blob/master/img/Model2.png)
    
-##Contributing
-
+## Contributing
 ### Step 1
 
 - **Option 1**
@@ -32,7 +31,6 @@ training and validation accuracies and losses :
 - **Option 2**
     - 👯 Clone this repo 
 ### Step 2
-
 - **HACK AWAY!** 🔨🔨🔨
  
 
