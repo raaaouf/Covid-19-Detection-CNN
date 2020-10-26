@@ -1,4 +1,6 @@
-# Covid-19-Detection-CNN
+![Logo](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimg-s-msn-com.akamaized.net%2Ftenant%2Famp%2Fentityid%2FBB10EQOi.img%3Fh%3D1080%26w%3D1920%26m%3D6%26q%3D60%26o%3Df%26l%3Df&f=1&nofb=1)
+
+# Coronavirus ☣ Detection using CNN with python
 
 [![Build Status](http://img.shields.io/travis/badges/badgerbadgerbadger.svg?style=flat-square)](https://travis-ci.org/badges/badgerbadgerbadger) [![Gem Version](http://img.shields.io/gem/v/badgerbadgerbadger.svg?style=flat-square)](https://rubygems.org/gems/badgerbadgerbadger) [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org) ![GitHub repo size](https://img.shields.io/github/repo-size/raaaouf/Covid-19-Detection-CNN?color=pink&label=size&logo=size?style=flat-square)
 
